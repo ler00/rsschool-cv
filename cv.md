@@ -1,8 +1,10 @@
 <h1>Valeria Zelenetskaya</h1>
 <pre>
-<h3>zeleneckaavaleria@gmail.com
-8(918)417-46-93
-</h3>
+<ul>
+<li>zeleneckaavaleria@gmail.com</li>
+<li>8(918)417-46-93</li>
+<li>Telegram: @lerphotog</li>
+</ul>
 </pre>
 <pre>
 <h4>My main goal at that moment is to study programming and to go to remote work.
